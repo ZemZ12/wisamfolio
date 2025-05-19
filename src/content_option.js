@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "Wisam";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Wisam Musa",
+    description: "I’m Wisam Musa data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Wisam Musa",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "A bit about my self",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
@@ -37,24 +37,36 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Figma",
+        value: 50,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Firebase",
+        value: 50,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 50,
     },
     {
         name: "React",
-        value: 60,
+        value: 50,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "SQL",
+        value: 50,
+    },
+    {
+        name: "Tailwind",
+        value:  45,
+    },
+    {
+        name: "Next.js",
+        value:  50,
+    },
+    {
+        name: "App Developmnet",
+        value:  40,
     },
 ];
 
