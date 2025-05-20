@@ -93,7 +93,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "ShawrmaBrothers resteraunt website for our client in Ohio",
+        description: "ShawrmaBrothers restaraunt website for our client in Ohio",
         link: "https://shawarmabrothers.food/",
     },
     {
