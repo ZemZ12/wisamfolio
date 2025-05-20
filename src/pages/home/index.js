@@ -55,8 +55,8 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <a className= "noUnderline" href="WisamResumeIT.pdf" target="_blank">
-                  <div id="button_h" className="ac_btn btn">
+                  <a href="WisamResumeIT.pdf" target="_blank">
+                  <div id="button_i" className="ac_btn btn">
                       Resume
                       <div className="ring one"></div>
                       <div className="ring two"></div>
