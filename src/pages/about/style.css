@@ -18,6 +18,14 @@
     font-family: 'Raleway';
 }
 
+.noUnderline{
+    text-decoration: none;
+    transition: font-size 0.3s ease;
+}
+
+.noUnderline:hover{
+    font-size: large;
+}
 .progress {
     height: 5px;
     background: var(--secondary);

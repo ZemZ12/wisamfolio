@@ -25,16 +25,31 @@ export const About = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
-        <Row className="sec_sp">
-          <Col lg="5">
-            <h3 className="color_sec py-4">{dataabout.title}</h3>
-          </Col>
-          <Col lg="7" className="d-flex align-items-center">
-            <div>
-              <p>{dataabout.aboutme}</p>
-            </div>
-          </Col>
-        </Row>
+       <Row className="sec_sp">
+            <Col lg="5">
+              <h3 className="color_sec py-4">{dataabout.title}</h3>
+            </Col>
+            <Col lg="7" className="d-flex align-items-center">
+              <div>
+                <a className= "noUnderline" href="WisamResumeIT.pdf" target="_blank" >
+                     {dataabout.pdf}
+                </a>
+                
+              </div>
+            </Col>
+          </Row>
+        {/*
+          <Row className="sec_sp">
+            <Col lg="5">
+              <h3 className="color_sec py-4">{dataabout.title}</h3>
+            </Col>
+            <Col lg="7" className="d-flex align-items-center">
+              <div>
+                <p>{dataabout.aboutme}</p>
+              </div>
+            </Col>
+          </Row>
+        */}
         <Row className=" sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Work Timline</h3>
@@ -81,7 +96,7 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">services</h3>
+            <h3 className="color_sec py-4">Education</h3>
           </Col>
           <Col lg="7">
             {services.map((data, i) => {

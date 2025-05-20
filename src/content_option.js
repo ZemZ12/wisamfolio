@@ -1,3 +1,7 @@
+
+
+
+
 const logotext = "Wisam";
 const meta = {
     title: "Wisam Musa",
@@ -7,33 +11,40 @@ const meta = {
 const introdata = {
     title: "I’m Wisam Musa",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
+        first: "I love learning",
+        second: "I am ambituous on what I love",
         third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 };
 
 const dataabout = {
-    title: "A bit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Resume",
+    aboutme: "",
+    pdf: "Look at my Resume!" ,
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Equipment & Technology",
+        where: "Epic Universe",
+        date: "2025 - present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Full Stack Developer",
+        where: "Echo - ORLANDO, FL",
+        date: "01/2024 - Current",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "QA & Frontend Developer",
+        where: "Shawarma Brothers - Ohio",
+        date: "08/2024 - 12/2025",
     },
+    {
+        jobtitle: "Front End Developer",
+        where: "Project - Orlando, FL",
+        date: " 01/2025 - 04/2025",
+
+    }
 ];
 
 const skills = [{
@@ -71,37 +82,33 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "University of Central Florida",
+        description: "Bachelor of Science: Information Technology",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Valencia College",
+        description: "Associate of Arts: General Studies",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "ShawrmaBrothers resteraunt website for our client in Ohio",
+        link: "https://shawarmabrothers.food/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "WeatherApp with a team of 5",
+        link: "https://www.youtube.com/watch?v=hckhXMO_7cw",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Echo messaging app that is still in Development",
+        link: "https://youtube.com/shorts/md-S6DQR5nA",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "A java program still in progress",
         link: "#",
     },
     {
@@ -148,21 +155,18 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "musawisam12@gmail.com",
+    YOUR_FONE: "321-607-2707",
+    description: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_yki9umt",
+    YOUR_TEMPLATE_ID: "template_mye17sn",
+    YOUR_USER_ID: "h0cvbpkDutypYyHlB",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/ZemZ12"
 };
 export {
     meta,
