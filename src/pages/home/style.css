@@ -69,7 +69,7 @@ section {
     }
 }
 
-@media (max-width:412px) {
+@media (max-width:600px) {
     #button_i{
         margin-top: 1rem;
         margin-left: 5.5rem;
