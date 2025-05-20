@@ -15,7 +15,7 @@ const introdata = {
         second: "I am ambituous on what I love",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Hello, My name is Wisam Musa and I am an IT student who will be graduating this summer of 2025!",
     your_img_url: "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 };
 
