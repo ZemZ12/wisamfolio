@@ -1,4 +1,4 @@
-# wisamfolio.com -- CLoud-Hosted Resume Website
+# wisamfolio.com -- Cloud-Hosted Resume Website
 Live : **https://wisamfolio.com**
 
 ---
