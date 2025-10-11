@@ -31,7 +31,7 @@ export const About = () => {
             </Col>
             <Col lg="7" className="d-flex align-items-center">
               <div>
-                <a className= "noUnderline" href="WisamResumeIT.pdf" target="_blank" >
+                <a className= "noUnderline" href="WIsamIT.pdf" target="_blank" >
                      {dataabout.pdf}
                 </a>
                 
